@@ -18,7 +18,7 @@ namespace HackerRank.Algorithms_Easy
             result.ForEach(x => Console.WriteLine("{0} ", x));
         }
 
-        public static List<int> compareTriplets(List<int> a, List<int> b)
+        private static List<int> compareTriplets(List<int> a, List<int> b)
         {
             List<int> points = new List<int> { 0, 0 };
             for (int i = 0; i < a.Count; i++)

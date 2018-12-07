@@ -8,15 +8,19 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            // HackerRank - "Solve Me First"
+            // 1. HackerRank - "Solve Me First" - https://www.hackerrank.com/challenges/solve-me-first/problem
             //Console.WriteLine(SolveMeFirst.solveMeFirst(1, 2));
 
-            // HackerRank - "Simple Array Sum"
+            // 2. HackerRank - "Simple Array Sum" - https://www.hackerrank.com/challenges/simple-array-sum/problem
             //Console.WriteLine(SimpleArraySum.simpleArraySum(new int[] { 1, 2, 3, 4, 5 }));
             //Console.WriteLine(SimpleArraySum.simpleArraySum_WithLoop(Enumerable.Range(1, 5).ToArray()));
 
-            // HackerRank - "Compare The Triplets"
-            CompareTheTriplets.CompareTheTriplets1();
+            // 3. HackerRank - "Compare The Triplets" - https://www.hackerrank.com/challenges/compare-the-triplets/problem
+            // CompareTheTriplets.CompareTheTriplets1();
+
+            // 4. HackerRank - "A Very Big Sum" - https://www.hackerrank.com/challenges/a-very-big-sum/problem
+            AVeryBigSum.AVeryBigSumMethod();
+
 
             Console.Read();
         }
