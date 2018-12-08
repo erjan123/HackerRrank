@@ -34,7 +34,11 @@ namespace HackerRank
             // Staircase.StaircaseMethod();
 
             // 8. "Min-Max Sum" - https://www.hackerrank.com/challenges/mini-max-sum/problem
-            MiniMaxSum.MiniMaxSumMethod();
+            // MiniMaxSum.MiniMaxSumMethod();
+
+            // 9. "Birthday Cake Candles" -  https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+            BirthdayCakeCandles.BirthdayCakeCandlesMethod();
+
 
             #endregion
 
