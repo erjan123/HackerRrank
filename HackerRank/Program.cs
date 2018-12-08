@@ -1,7 +1,8 @@
 ﻿using System;
-using HackerRank.Algorithms_Easy;
 using System.Linq;
+using HackerRank.Algorithms_Easy;
 using HackerRank.Data_Structures_Easy;
+using HackerRank.Data_Structures_Hard;
 
 namespace HackerRank
 {
@@ -52,9 +53,18 @@ namespace HackerRank
             // TwoDArrayDS.HourglassSumMethod();
 
             // 3. "(Array) Left Rotation"  - https://www.hackerrank.com/challenges/array-left-rotation/submissions/code/88668019
-            LeftRotation.LeftRotationMethod();
+            // LeftRotation.LeftRotationMethod();
 
             #endregion
+
+            #region Data Structures Hard
+
+            // 1. "Array Manipulation" - https://www.hackerrank.com/challenges/crush/problem
+            // ArrayManipulation.ArrayManipulationMethod();
+
+
+            #endregion
+
 
             Console.Read();
         }
