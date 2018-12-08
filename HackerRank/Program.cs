@@ -12,14 +12,13 @@ namespace HackerRank
             #region Algorithms Easy
 
             // 1. "Solve Me First" - https://www.hackerrank.com/challenges/solve-me-first/problem
-            // Console.WriteLine(SolveMeFirst.solveMeFirst(1, 2));
+            // SolveMeFirst.SolveMeFirstMethod();
 
             // 2. "Simple Array Sum" - https://www.hackerrank.com/challenges/simple-array-sum/problem
-            // Console.WriteLine(SimpleArraySum.simpleArraySum(new int[] { 1, 2, 3, 4, 5 }));
-            // Console.WriteLine(SimpleArraySum.simpleArraySum_WithLoop(Enumerable.Range(1, 5).ToArray()));
+            // SimpleArraySum.SimpleArraySumMethod();
 
             // 3. "Compare The Triplets" - https://www.hackerrank.com/challenges/compare-the-triplets/problem
-            // CompareTheTriplets.CompareTheTriplets1();
+            // CompareTheTriplets.CompareTheTripletsMethod();
 
             // 4. "A Very Big Sum" - https://www.hackerrank.com/challenges/a-very-big-sum/problem
             // AVeryBigSum.AVeryBigSumMethod();
@@ -40,7 +39,7 @@ namespace HackerRank
             // BirthdayCakeCandles.BirthdayCakeCandlesMethod();
 
             // 10. "Time Conversion" - https://www.hackerrank.com/challenges/time-conversion/problem
-            TimeConversion.TimeConversionMethod();
+            // TimeConversion.TimeConversionMethod();
 
             #endregion
 

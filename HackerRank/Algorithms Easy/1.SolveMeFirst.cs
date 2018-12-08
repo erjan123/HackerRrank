@@ -1,9 +1,14 @@
-﻿
+﻿using System;
+
 namespace HackerRank.Algorithms_Easy
 {
     public static class SolveMeFirst
     {
-        public static int solveMeFirst(int a, int b)
+        public static void SolveMeFirstMethod()
+        {
+            Console.WriteLine(solveMeFirst(1, 2));
+        }
+        static int solveMeFirst(int a, int b)
         {
             return a + b;
         }
