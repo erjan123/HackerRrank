@@ -37,8 +37,10 @@ namespace HackerRank
             // MiniMaxSum.MiniMaxSumMethod();
 
             // 9. "Birthday Cake Candles" -  https://www.hackerrank.com/challenges/birthday-cake-candles/problem
-            BirthdayCakeCandles.BirthdayCakeCandlesMethod();
+            // BirthdayCakeCandles.BirthdayCakeCandlesMethod();
 
+            // 10. "Time Conversion" - https://www.hackerrank.com/challenges/time-conversion/problem
+            TimeConversion.TimeConversionMethod();
 
             #endregion
 
