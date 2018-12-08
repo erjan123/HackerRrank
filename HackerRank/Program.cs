@@ -45,10 +45,11 @@ namespace HackerRank
 
             #region Data Structures 
 
-            // 1. ArraysDS - https://www.hackerrank.com/challenges/arrays-ds/problem
+            // 1. "Arrays DS" - https://www.hackerrank.com/challenges/arrays-ds/problem
             // ArraysDS.ReverseArray();
 
-
+            // 2. "2D Array - DS" - https://www.hackerrank.com/challenges/2d-array/problem
+            TwoDArrayDS.HourglassSumMethod();
             #endregion
 
             Console.Read();
