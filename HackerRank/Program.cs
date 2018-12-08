@@ -27,12 +27,15 @@ namespace HackerRank
             // 5. "Diagonal Difference" - https://www.hackerrank.com/challenges/diagonal-difference/problem
             // DiagonalDifference.DiagonalDifferenceMethod();
 
+            // 6. "Plus Minus" - https://www.hackerrank.com/challenges/plus-minus/submissions/code/72917579
+            PlusMinus.PlusMinusMethod();
+
             #endregion
 
             #region Data Structures 
 
             // 1. ArraysDS - https://www.hackerrank.com/challenges/arrays-ds/problem
-            ArraysDS.ReverseArray();
+            // ArraysDS.ReverseArray();
 
 
             #endregion
