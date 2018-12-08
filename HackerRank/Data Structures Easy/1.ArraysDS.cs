@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace HackerRank.Data_Structures_Easy
 {
@@ -11,13 +9,13 @@ namespace HackerRank.Data_Structures_Easy
         {
             int[] array = Enumerable.Range(1, 10).ToArray();
 
-            Console.Write("Reverse Array : ");
+            Console.Write("Reverse Array - with For Loop : ");
             reverseArray(array).ToList().ForEach(x => Console.Write(x + " "));
 
             Console.WriteLine();
             Console.WriteLine();
             Console.Write("Reverse Array with Linq Reverse() method : ");
-            array.Reverse().ToList().ForEach(x => Console.Write(x + " "));
+            reverseArray2(array).ToList().ForEach(x => Console.Write(x + " "));
         }
         static int[] reverseArray(int[] a)
         {
@@ -27,6 +25,11 @@ namespace HackerRank.Data_Structures_Easy
                 temp[i - 1] = a[a.Count() - i];
             }
             return temp;
+        }
+
+        static int[] reverseArray2(int[] a)
+        {
+            return a.Reverse().ToArray();
         }
     }
 }
