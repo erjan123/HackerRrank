@@ -28,7 +28,10 @@ namespace HackerRank
             // DiagonalDifference.DiagonalDifferenceMethod();
 
             // 6. "Plus Minus" - https://www.hackerrank.com/challenges/plus-minus/submissions/code/72917579
-            PlusMinus.PlusMinusMethod();
+            // PlusMinus.PlusMinusMethod();
+
+            // 7. "Staircase" - https://www.hackerrank.com/challenges/staircase/problem
+            // Staircase.StaircaseMethod();
 
             #endregion
 
