@@ -49,7 +49,11 @@ namespace HackerRank
             // ArraysDS.ReverseArray();
 
             // 2. "2D Array - DS" - https://www.hackerrank.com/challenges/2d-array/problem
-            TwoDArrayDS.HourglassSumMethod();
+            // TwoDArrayDS.HourglassSumMethod();
+
+            // 3. "(Array) Left Rotation"  - https://www.hackerrank.com/challenges/array-left-rotation/submissions/code/88668019
+            LeftRotation.LeftRotationMethod();
+
             #endregion
 
             Console.Read();
