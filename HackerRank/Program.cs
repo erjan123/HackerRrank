@@ -42,6 +42,9 @@ namespace HackerRank
             // 10. "Time Conversion" - https://www.hackerrank.com/challenges/time-conversion/problem
             // TimeConversion.TimeConversionMethod();
 
+            // 11. "Grading Students" - https://www.hackerrank.com/challenges/grading/problem
+            GradingStudents.GradingStudentsMethod();
+
             #endregion
 
             #region Data Structures 
