@@ -43,7 +43,11 @@ namespace HackerRank
             // TimeConversion.TimeConversionMethod();
 
             // 11. "Grading Students" - https://www.hackerrank.com/challenges/grading/problem
-            GradingStudents.GradingStudentsMethod();
+            // GradingStudents.GradingStudentsMethod();
+
+            // Note: Try to improve this solution
+            // 12. "Apple and Orange" - https://www.hackerrank.com/challenges/apple-and-orange/problem
+            // AppleAndOrange.CountApplesAndOranges(); 
 
             #endregion
 
