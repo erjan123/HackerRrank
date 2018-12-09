@@ -49,6 +49,9 @@ namespace HackerRank
             // 12. "Apple and Orange" - https://www.hackerrank.com/challenges/apple-and-orange/problem
             // AppleAndOrange.CountApplesAndOranges(); 
 
+            // 13. "Kangaroo" - https://www.hackerrank.com/challenges/kangaroo/problem
+            Kangaroo.KangarooMethod();
+
             #endregion
 
             #region Data Structures 
