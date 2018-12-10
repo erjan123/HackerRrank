@@ -59,7 +59,10 @@ namespace HackerRank
             // BreakingTheRecords.BreakingTheRecordsMethod();
 
             // 16. "Birthday Chocolate" - https://www.hackerrank.com/challenges/the-birthday-bar/problem
-            BirthdayChocolate.BirthdayChocolateMethod();
+            // BirthdayChocolate.BirthdayChocolateMethod();
+
+            // 17. "Divisible Sum Pairs" - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+            DivisibleSumPairs.DivisibleSumPairsMethod();
 
             #endregion
 
