@@ -56,7 +56,10 @@ namespace HackerRank
             // BetweenTwoSets.GetTotalX();
 
             // 15. "Breaking the Records" - https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
-            BreakingTheRecords.BreakingTheRecordsMethod();
+            // BreakingTheRecords.BreakingTheRecordsMethod();
+
+            // 16. "Birthday Chocolate" - https://www.hackerrank.com/challenges/the-birthday-bar/problem
+            BirthdayChocolate.BirthdayChocolateMethod();
 
             #endregion
 
