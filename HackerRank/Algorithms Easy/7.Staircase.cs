@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace HackerRank.Algorithms_Easy
 {
-    public static class Staircase
+  public static class Staircase
     {
         public static void StaircaseMethod()
         {
