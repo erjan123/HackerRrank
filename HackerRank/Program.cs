@@ -82,6 +82,25 @@ namespace HackerRank
             // 23. "Counting Valleys" - https://www.hackerrank.com/challenges/counting-valleys/problem
             CountingValleys.CountingValleysMethod();
 
+            // 24. "Electronics Shop" - https://www.hackerrank.com/challenges/electronics-shop/problem
+            // 25. "Cats and a Mouse" - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+            // 26. "The Hurdle Race" - https://www.hackerrank.com/challenges/the-hurdle-race/problem
+            // 27. "Designer PDF Viewer" - https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+            // 28. "Utopian Tree" - https://www.hackerrank.com/challenges/utopian-tree/problem
+            // 29. "Angry Professor" - https://www.hackerrank.com/challenges/angry-professor/problem
+            // 30. "Beautiful Days at the Movies" - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+            // 31. "Jumping on the Clouds: Revisited" - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
+            // 32. "" -
+            // 33. "" - 
+            // 34. "" - 
+            // 35. "" -
+            // 36. "" -
+            // 37. "" - 
+            // 38. "" - 
+            // 39. "" -
+
+
+
             #endregion
 
             #region Data Structures 
