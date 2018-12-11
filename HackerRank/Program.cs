@@ -80,9 +80,11 @@ namespace HackerRank
             // DrawingBook.PageCount();
 
             // 23. "Counting Valleys" - https://www.hackerrank.com/challenges/counting-valleys/problem
-            CountingValleys.CountingValleysMethod();
+            // CountingValleys.CountingValleysMethod();
 
             // 24. "Electronics Shop" - https://www.hackerrank.com/challenges/electronics-shop/problem
+            // ElectronicsShop.GetMoneySpent();
+
             // 25. "Cats and a Mouse" - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
             // 26. "The Hurdle Race" - https://www.hackerrank.com/challenges/the-hurdle-race/problem
             // 27. "Designer PDF Viewer" - https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
