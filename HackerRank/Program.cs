@@ -65,7 +65,7 @@ namespace HackerRank
             // DivisibleSumPairs.DivisibleSumPairsMethod();
 
             // 18. "Migratory Birds" - https://www.hackerrank.com/challenges/migratory-birds/problem
-
+            // MigratoryBirds.MigratoryBirdsMethod();
 
             #endregion
 
