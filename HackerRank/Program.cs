@@ -71,8 +71,10 @@ namespace HackerRank
             // DayOfTheProgrammer.DayOfTheProgrammerMethod();
 
             // 20. "Bon Appétit" - https://www.hackerrank.com/challenges/bon-appetit/problem
-            BonAppetit.BonAppetitMethod();
+            // BonAppetit.BonAppetitMethod();
 
+            // 21. "Sock Merchant" - https://www.hackerrank.com/challenges/sock-merchant/problem
+            SockMerchant.SockMerchantMethod();
 
             #endregion
 
