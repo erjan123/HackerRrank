@@ -62,7 +62,10 @@ namespace HackerRank
             // BirthdayChocolate.BirthdayChocolateMethod();
 
             // 17. "Divisible Sum Pairs" - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
-            DivisibleSumPairs.DivisibleSumPairsMethod();
+            // DivisibleSumPairs.DivisibleSumPairsMethod();
+
+            // 18. "Migratory Birds" - https://www.hackerrank.com/challenges/migratory-birds/problem
+
 
             #endregion
 
