@@ -74,7 +74,10 @@ namespace HackerRank
             // BonAppetit.BonAppetitMethod();
 
             // 21. "Sock Merchant" - https://www.hackerrank.com/challenges/sock-merchant/problem
-            SockMerchant.SockMerchantMethod();
+            // SockMerchant.SockMerchantMethod();
+
+            // 22. "Drawing Book" - https://www.hackerrank.com/challenges/drawing-book/problem
+            DrawingBook.PageCount();
 
             #endregion
 
