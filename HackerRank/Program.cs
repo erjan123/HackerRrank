@@ -90,13 +90,13 @@ namespace HackerRank
             // 29. "Angry Professor" - https://www.hackerrank.com/challenges/angry-professor/problem
             // 30. "Beautiful Days at the Movies" - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
             // 31. "Jumping on the Clouds: Revisited" - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
-            // 32. "" -
-            // 33. "" - 
-            // 34. "" - 
-            // 35. "" -
-            // 36. "" -
-            // 37. "" - 
-            // 38. "" - 
+            // 32. "Find Digits" - https://www.hackerrank.com/challenges/find-digits/problem
+            // 33. "Cut the sticks" - https://www.hackerrank.com/challenges/cut-the-sticks/problem
+            // 34. "Repeated String" - https://www.hackerrank.com/challenges/repeated-string/problem
+            // 35. "Jumping On The Clouds" - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+            // 36. "Minimum Distances" - https://www.hackerrank.com/challenges/minimum-distances/problem
+            // 37. "CamelCase" - https://www.hackerrank.com/challenges/camelcase/problem
+            // 38. "Insertion Sort - Part 1" - https://www.hackerrank.com/challenges/insertionsort1/problem
             // 39. "" -
 
 
