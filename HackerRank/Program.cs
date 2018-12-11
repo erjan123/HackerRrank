@@ -70,6 +70,10 @@ namespace HackerRank
             // 19. "Day of the Programmer" - https://www.hackerrank.com/challenges/day-of-the-programmer/problem
             // DayOfTheProgrammer.DayOfTheProgrammerMethod();
 
+            // 20. "Bon Appétit" - https://www.hackerrank.com/challenges/bon-appetit/problem
+            BonAppetit.BonAppetitMethod();
+
+
             #endregion
 
             #region Data Structures 
