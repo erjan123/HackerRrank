@@ -67,6 +67,9 @@ namespace HackerRank
             // 18. "Migratory Birds" - https://www.hackerrank.com/challenges/migratory-birds/problem
             // MigratoryBirds.MigratoryBirdsMethod();
 
+            // 19. "Day of the Programmer" - https://www.hackerrank.com/challenges/day-of-the-programmer/problem
+            // DayOfTheProgrammer.DayOfTheProgrammerMethod();
+
             #endregion
 
             #region Data Structures 

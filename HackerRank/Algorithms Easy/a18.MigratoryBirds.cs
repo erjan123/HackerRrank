@@ -11,7 +11,6 @@ namespace HackerRank.Algorithms_Easy
             Console.WriteLine("Solution with two For Loops.");
             Console.WriteLine(migratoryBirds(new List<int> { 1, 4, 4, 4, 5, 3 }));
 
-
             Console.WriteLine("\r\nSolution with Linq.");
             Console.WriteLine(migratoryBirds2(new List<int> { 1, 4, 4, 4, 5, 3 }));
         }
