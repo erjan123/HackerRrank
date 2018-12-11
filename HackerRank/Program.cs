@@ -77,7 +77,10 @@ namespace HackerRank
             // SockMerchant.SockMerchantMethod();
 
             // 22. "Drawing Book" - https://www.hackerrank.com/challenges/drawing-book/problem
-            DrawingBook.PageCount();
+            // DrawingBook.PageCount();
+
+            // 23. "Counting Valleys" - https://www.hackerrank.com/challenges/counting-valleys/problem
+            CountingValleys.CountingValleysMethod();
 
             #endregion
 
