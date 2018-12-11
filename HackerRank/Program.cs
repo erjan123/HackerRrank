@@ -86,6 +86,9 @@ namespace HackerRank
             // ElectronicsShop.GetMoneySpent();
 
             // 25. "Cats and a Mouse" - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+            CatsAndAMouse.CatsAndAMouseMethod();
+
+
             // 26. "The Hurdle Race" - https://www.hackerrank.com/challenges/the-hurdle-race/problem
             // 27. "Designer PDF Viewer" - https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
             // 28. "Utopian Tree" - https://www.hackerrank.com/challenges/utopian-tree/problem
