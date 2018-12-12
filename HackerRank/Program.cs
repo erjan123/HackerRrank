@@ -12,89 +12,93 @@ namespace HackerRank
         {
             #region Algorithms Easy
 
-                #region Algorithms Easy 1 to 30
+            #region Algorithms Easy 1 to 30
 
-                // 1. "Solve Me First" - https://www.hackerrank.com/challenges/solve-me-first/problem
-                // SolveMeFirst.SolveMeFirstMethod();
+            // 1. "Solve Me First" - https://www.hackerrank.com/challenges/solve-me-first/problem
+            // SolveMeFirst.SolveMeFirstMethod();
 
-                // 2. "Simple Array Sum" - https://www.hackerrank.com/challenges/simple-array-sum/problem
-                // SimpleArraySum.SimpleArraySumMethod();
+            // 2. "Simple Array Sum" - https://www.hackerrank.com/challenges/simple-array-sum/problem
+            // SimpleArraySum.SimpleArraySumMethod();
 
-                // 3. "Compare The Triplets" - https://www.hackerrank.com/challenges/compare-the-triplets/problem
-                // CompareTheTriplets.CompareTheTripletsMethod();
+            // 3. "Compare The Triplets" - https://www.hackerrank.com/challenges/compare-the-triplets/problem
+            // CompareTheTriplets.CompareTheTripletsMethod();
 
-                // 4. "A Very Big Sum" - https://www.hackerrank.com/challenges/a-very-big-sum/problem
-                // AVeryBigSum.AVeryBigSumMethod();
+            // 4. "A Very Big Sum" - https://www.hackerrank.com/challenges/a-very-big-sum/problem
+            // AVeryBigSum.AVeryBigSumMethod();
 
-                // 5. "Diagonal Difference" - https://www.hackerrank.com/challenges/diagonal-difference/problem
-                // DiagonalDifference.DiagonalDifferenceMethod();
+            // 5. "Diagonal Difference" - https://www.hackerrank.com/challenges/diagonal-difference/problem
+            // DiagonalDifference.DiagonalDifferenceMethod();
 
-                // 6. "Plus Minus" - https://www.hackerrank.com/challenges/plus-minus/submissions/code/72917579
-                // PlusMinus.PlusMinusMethod();
+            // 6. "Plus Minus" - https://www.hackerrank.com/challenges/plus-minus/submissions/code/72917579
+            // PlusMinus.PlusMinusMethod();
 
-                // 7. "Staircase" - https://www.hackerrank.com/challenges/staircase/problem
-                // Staircase.StaircaseMethod();
+            // 7. "Staircase" - https://www.hackerrank.com/challenges/staircase/problem
+            // Staircase.StaircaseMethod();
 
-                // 8. "Min-Max Sum" - https://www.hackerrank.com/challenges/mini-max-sum/problem
-                // MiniMaxSum.MiniMaxSumMethod();
+            // 8. "Min-Max Sum" - https://www.hackerrank.com/challenges/mini-max-sum/problem
+            // MiniMaxSum.MiniMaxSumMethod();
 
-                // 9. "Birthday Cake Candles" -  https://www.hackerrank.com/challenges/birthday-cake-candles/problem
-                // BirthdayCakeCandles.BirthdayCakeCandlesMethod();
+            // 9. "Birthday Cake Candles" -  https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+            // BirthdayCakeCandles.BirthdayCakeCandlesMethod();
 
-                // 10. "Time Conversion" - https://www.hackerrank.com/challenges/time-conversion/problem
-                // TimeConversion.TimeConversionMethod();
+            // 10. "Time Conversion" - https://www.hackerrank.com/challenges/time-conversion/problem
+            // TimeConversion.TimeConversionMethod();
 
-                // 11. "Grading Students" - https://www.hackerrank.com/challenges/grading/problem
-                // GradingStudents.GradingStudentsMethod();
+            // 11. "Grading Students" - https://www.hackerrank.com/challenges/grading/problem
+            // GradingStudents.GradingStudentsMethod();
 
-                // 12. "Apple and Orange" - https://www.hackerrank.com/challenges/apple-and-orange/problem
-                // AppleAndOrange.CountApplesAndOranges(); 
+            // 12. "Apple and Orange" - https://www.hackerrank.com/challenges/apple-and-orange/problem
+            // AppleAndOrange.CountApplesAndOranges(); 
 
-                // 13. "Kangaroo" - https://www.hackerrank.com/challenges/kangaroo/problem
-                // Kangaroo.KangarooMethod();
+            // 13. "Kangaroo" - https://www.hackerrank.com/challenges/kangaroo/problem
+            // Kangaroo.KangarooMethod();
 
-                // 14. "Between Two Sets" - https://www.hackerrank.com/challenges/between-two-sets/problem
-                // BetweenTwoSets.GetTotalX();
+            // 14. "Between Two Sets" - https://www.hackerrank.com/challenges/between-two-sets/problem
+            // BetweenTwoSets.GetTotalX();
 
-                // 15. "Breaking the Records" - https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
-                // BreakingTheRecords.BreakingTheRecordsMethod();
+            // 15. "Breaking the Records" - https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+            // BreakingTheRecords.BreakingTheRecordsMethod();
 
-                // 16. "Birthday Chocolate" - https://www.hackerrank.com/challenges/the-birthday-bar/problem
-                // BirthdayChocolate.BirthdayChocolateMethod();
+            // 16. "Birthday Chocolate" - https://www.hackerrank.com/challenges/the-birthday-bar/problem
+            // BirthdayChocolate.BirthdayChocolateMethod();
 
-                // 17. "Divisible Sum Pairs" - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
-                // DivisibleSumPairs.DivisibleSumPairsMethod();
+            // 17. "Divisible Sum Pairs" - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+            // DivisibleSumPairs.DivisibleSumPairsMethod();
 
-                // 18. "Migratory Birds" - https://www.hackerrank.com/challenges/migratory-birds/problem
-                // MigratoryBirds.MigratoryBirdsMethod();
+            // 18. "Migratory Birds" - https://www.hackerrank.com/challenges/migratory-birds/problem
+            // MigratoryBirds.MigratoryBirdsMethod();
 
-                // 19. "Day of the Programmer" - https://www.hackerrank.com/challenges/day-of-the-programmer/problem
-                // DayOfTheProgrammer.DayOfTheProgrammerMethod();
+            // 19. "Day of the Programmer" - https://www.hackerrank.com/challenges/day-of-the-programmer/problem
+            // DayOfTheProgrammer.DayOfTheProgrammerMethod();
 
-                // 20. "Bon Appétit" - https://www.hackerrank.com/challenges/bon-appetit/problem
-                // BonAppetit.BonAppetitMethod();
+            // 20. "Bon Appétit" - https://www.hackerrank.com/challenges/bon-appetit/problem
+            // BonAppetit.BonAppetitMethod();
 
-                // 21. "Sock Merchant" - https://www.hackerrank.com/challenges/sock-merchant/problem
-                // SockMerchant.SockMerchantMethod();
+            // 21. "Sock Merchant" - https://www.hackerrank.com/challenges/sock-merchant/problem
+            // SockMerchant.SockMerchantMethod();
 
-                // 22. "Drawing Book" - https://www.hackerrank.com/challenges/drawing-book/problem
-                // DrawingBook.PageCount();
+            // 22. "Drawing Book" - https://www.hackerrank.com/challenges/drawing-book/problem
+            // DrawingBook.PageCount();
 
-                // 23. "Counting Valleys" - https://www.hackerrank.com/challenges/counting-valleys/problem
-                // CountingValleys.CountingValleysMethod();
+            // 23. "Counting Valleys" - https://www.hackerrank.com/challenges/counting-valleys/problem
+            // CountingValleys.CountingValleysMethod();
 
-                // 24. "Electronics Shop" - https://www.hackerrank.com/challenges/electronics-shop/problem
-                // ElectronicsShop.GetMoneySpent();
+            // 24. "Electronics Shop" - https://www.hackerrank.com/challenges/electronics-shop/problem
+            // ElectronicsShop.GetMoneySpent();
 
-                // 25. "Cats and a Mouse" - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
-                // CatsAndAMouse.CatsAndAMouseMethod();
+            // 25. "Cats and a Mouse" - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+            // CatsAndAMouse.CatsAndAMouseMethod();
 
-                // 26. "The Hurdle Race" - https://www.hackerrank.com/challenges/the-hurdle-race/problem
-                // TheHurdleRace.HurdleRace();
+            // 26. "The Hurdle Race" - https://www.hackerrank.com/challenges/the-hurdle-race/problem
+            // TheHurdleRace.HurdleRace();
 
-                // 27. "Designer PDF Viewer" - https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
-                // 28. "Utopian Tree" - https://www.hackerrank.com/challenges/utopian-tree/problem
-                // 29. "Angry Professor" - https://www.hackerrank.com/challenges/angry-professor/problem
+            // 27. "Designer PDF Viewer" - https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+            DesignerPDFViewer.DesignerPDFViewerMethod();
+
+            // 28. "Utopian Tree" - https://www.hackerrank.com/challenges/utopian-tree/problem
+
+            // 29. "Angry Professor" - https://www.hackerrank.com/challenges/angry-professor/problem
+
                 // 30. "Beautiful Days at the Movies" - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 
                 #endregion
