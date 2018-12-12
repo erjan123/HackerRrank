@@ -99,9 +99,10 @@ namespace HackerRank
             // UtopianTree.UtopianTreeMethod();
 
             // 29. "Angry Professor" - https://www.hackerrank.com/challenges/angry-professor/problem
-            AngryProfessor.AngryProfessorMethod();
+            // AngryProfessor.AngryProfessorMethod();
 
-                // 30. "Beautiful Days at the Movies" - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+            // 30. "Beautiful Days at the Movies" - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+            BeautifulDaysAtTheMovies.BeautifulDays();
 
                 #endregion
 
