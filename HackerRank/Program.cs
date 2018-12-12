@@ -96,9 +96,10 @@ namespace HackerRank
             // DesignerPDFViewer.DesignerPDFViewerMethod();
 
             // 28. "Utopian Tree" - https://www.hackerrank.com/challenges/utopian-tree/problem
-            UtopianTree.UtopianTreeMethod();
+            // UtopianTree.UtopianTreeMethod();
 
             // 29. "Angry Professor" - https://www.hackerrank.com/challenges/angry-professor/problem
+            AngryProfessor.AngryProfessorMethod();
 
                 // 30. "Beautiful Days at the Movies" - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 
