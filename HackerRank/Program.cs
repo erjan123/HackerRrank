@@ -118,10 +118,14 @@ namespace HackerRank
             // CutTheSticks.CutTheSticksMethod();
 
             // 34. "Repeated String" - https://www.hackerrank.com/challenges/repeated-string/problem
-            RepeatedString.RepeatedStringMethod();
+            // RepeatedString.RepeatedStringMethod();
 
             // 35. "Jumping On The Clouds" - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+            // JumpingOnTheClouds.JumpingOnTheCloudsMethod();
+
             // 36. "Minimum Distances" - https://www.hackerrank.com/challenges/minimum-distances/problem
+            MinimumDistances.MinimumDistancesMethod();
+
             // 37. "CamelCase" - https://www.hackerrank.com/challenges/camelcase/problem
             // 38. "Insertion Sort - Part 1" - https://www.hackerrank.com/challenges/insertionsort1/problem
             // 39. "" -
