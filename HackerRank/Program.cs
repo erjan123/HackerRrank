@@ -115,9 +115,11 @@ namespace HackerRank
             // FindDigits.FindDigitsMethod();
 
             // 33. "Cut the sticks" - https://www.hackerrank.com/challenges/cut-the-sticks/problem
-            CutTheSticks.CutTheSticksMethod();
+            // CutTheSticks.CutTheSticksMethod();
 
             // 34. "Repeated String" - https://www.hackerrank.com/challenges/repeated-string/problem
+            RepeatedString.RepeatedStringMethod();
+
             // 35. "Jumping On The Clouds" - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
             // 36. "Minimum Distances" - https://www.hackerrank.com/challenges/minimum-distances/problem
             // 37. "CamelCase" - https://www.hackerrank.com/challenges/camelcase/problem
