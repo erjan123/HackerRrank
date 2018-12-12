@@ -104,11 +104,13 @@ namespace HackerRank
             // 30. "Beautiful Days at the Movies" - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
             // BeautifulDaysAtTheMovies.BeautifulDays();
 
-                #endregion
+            #endregion
 
             #region Algorithms Easy 31 - 60
 
             // 31. "Jumping on the Clouds: Revisited" - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
+            // JumpingOnTheCloudsRevisited.JumpingOnClouds();
+
             // 32. "Find Digits" - https://www.hackerrank.com/challenges/find-digits/problem
             // 33. "Cut the sticks" - https://www.hackerrank.com/challenges/cut-the-sticks/problem
             // 34. "Repeated String" - https://www.hackerrank.com/challenges/repeated-string/problem
