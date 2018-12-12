@@ -1,10 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Text.RegularExpressions;
 
 namespace HackerRank.Algorithms_Easy
 {
-    class CamelCase
+    public class CamelCase
     {
+        public static void CamelCaseMethod()
+        {
+            Console.WriteLine("Solution:");
+            Console.WriteLine(camelcase("saveChangesInTheEditor"));
+        }
+
+        static int camelcase(string s)
+        {
+            return Regex.Split(s, @"(?<!^)(?=[A-Z])").Length;
+        }
     }
 }

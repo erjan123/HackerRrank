@@ -124,9 +124,11 @@ namespace HackerRank
             // JumpingOnTheClouds.JumpingOnTheCloudsMethod();
 
             // 36. "Minimum Distances" - https://www.hackerrank.com/challenges/minimum-distances/problem
-            MinimumDistances.MinimumDistancesMethod();
+            // MinimumDistances.MinimumDistancesMethod();
 
-            // 37. "CamelCase" - https://www.hackerrank.com/challenges/camelcase/problem
+            // 37. "Camel Case" - https://www.hackerrank.com/challenges/camelcase/problem
+            // CamelCase.CamelCaseMethod();
+
             // 38. "Insertion Sort - Part 1" - https://www.hackerrank.com/challenges/insertionsort1/problem
             // 39. "" -
 
