@@ -133,9 +133,10 @@ namespace HackerRank
             // CorrectnessAndTheLoopInvariant.CorrectnessAndTheLoopInvariantMethod();
 
             // 39. "Counting Sort 1" - https://www.hackerrank.com/challenges/countingsort1/problem
-            CountingSort1.CountingSort1Method();
+            // CountingSort1.CountingSort1Method();
 
-            // 40. "Counting Sort 2" -
+            // 40. "Counting Sort 2" - https://www.hackerrank.com/challenges/countingsort2/problem
+            CountingSort2.CountingSort2Method();
 
             #endregion
 
