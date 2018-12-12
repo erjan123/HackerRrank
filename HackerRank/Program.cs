@@ -136,7 +136,10 @@ namespace HackerRank
             // CountingSort1.CountingSort1Method();
 
             // 40. "Counting Sort 2" - https://www.hackerrank.com/challenges/countingsort2/problem
-            CountingSort2.CountingSort2Method();
+            // CountingSort2.CountingSort2Method();
+
+            // 41. "Find the Median" - https://www.hackerrank.com/challenges/find-the-median/problem
+            // FindTheMedian.FindTheMediaMethod();
 
             #endregion
 
