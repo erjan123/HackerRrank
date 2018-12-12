@@ -102,11 +102,11 @@ namespace HackerRank
             // AngryProfessor.AngryProfessorMethod();
 
             // 30. "Beautiful Days at the Movies" - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
-            BeautifulDaysAtTheMovies.BeautifulDays();
+            // BeautifulDaysAtTheMovies.BeautifulDays();
 
                 #endregion
 
-                #region Algorithms Easy 31 - 60
+            #region Algorithms Easy 31 - 60
 
             // 31. "Jumping on the Clouds: Revisited" - https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
             // 32. "Find Digits" - https://www.hackerrank.com/challenges/find-digits/problem
