@@ -112,6 +112,8 @@ namespace HackerRank
             // JumpingOnTheCloudsRevisited.JumpingOnClouds();
 
             // 32. "Find Digits" - https://www.hackerrank.com/challenges/find-digits/problem
+            FindDigits.FindDigitsMethod();
+
             // 33. "Cut the sticks" - https://www.hackerrank.com/challenges/cut-the-sticks/problem
             // 34. "Repeated String" - https://www.hackerrank.com/challenges/repeated-string/problem
             // 35. "Jumping On The Clouds" - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
