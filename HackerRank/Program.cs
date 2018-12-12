@@ -129,7 +129,9 @@ namespace HackerRank
             // 37. "Camel Case" - https://www.hackerrank.com/challenges/camelcase/problem
             // CamelCase.CamelCaseMethod();
 
-            // 38. "Insertion Sort - Part 1" - https://www.hackerrank.com/challenges/insertionsort1/problem
+            // 38. "Correctness and the Loop Invariant" - https://www.hackerrank.com/challenges/insertionsort1/problem
+            CorrectnessAndTheLoopInvariant.CorrectnessAndTheLoopInvariantMethod();
+
             // 39. "" -
 
             #endregion
