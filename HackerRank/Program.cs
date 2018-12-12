@@ -156,6 +156,10 @@ namespace HackerRank
             // 3. "(Array) Left Rotation"  - https://www.hackerrank.com/challenges/array-left-rotation/submissions/code/88668019
             // LeftRotation.LeftRotationMethod();
 
+            // 4. "Sparse Arrays" - https://www.hackerrank.com/challenges/sparse-arrays/problem
+            // SparseArrays.SparseArraysMethod();  
+            // Needs to be implemented
+
             #endregion
 
             #region Data Structures Hard
